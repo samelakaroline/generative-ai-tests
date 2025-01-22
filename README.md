@@ -13,6 +13,8 @@
 - Chat GPT
 - DALL-E
 - Power Point
+- ElevenLabs
+- CapCut
 
 <h2 id="started">🚀 Getting started</h2>
 
